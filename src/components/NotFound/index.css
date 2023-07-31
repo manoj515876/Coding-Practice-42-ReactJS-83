@@ -1,0 +1,25 @@
+.not-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.not-img {
+  height: 300px;
+}
+
+.not-head {
+  color: #171f46;
+  font-family: Roboto;
+  font-size: 36px;
+}
+.para {
+  color: #64748b;
+  font-family: Roboto;
+}
+
+.light {
+  color: #ffffff;
+}

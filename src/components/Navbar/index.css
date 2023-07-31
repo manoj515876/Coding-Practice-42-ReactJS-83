@@ -1,0 +1,59 @@
+.nav-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.navbar-img {
+  height: 40px;
+  width: 40px;
+}
+
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  width: 180px;
+  list-style: none;
+}
+
+.list-item {
+  text-decoration: none;
+  font-family: Roboto;
+  color: #000000;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.card-img {
+  height: 160px;
+}
+
+.heading {
+  font-family: Roboto;
+  font-weight: 600;
+  color: #1e293b;
+  text-align: center;
+}
+
+.theme-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.dark {
+  background-color: #333333;
+}
+
+.light {
+  color: #ffffff;
+}
